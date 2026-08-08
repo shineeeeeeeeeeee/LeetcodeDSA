@@ -29,13 +29,13 @@ class Solution {
 
         while (i < n && j < m) {
 
-            // Normal exact match
+            // normal exact match
             if (a[i] == b[j]) {
                 ans[j] = i;
                 j++;
             }
 
-            // Use this position as the one allowed mismatch
+            // using this position as the one allowed mismatch
             else if (!usedMismatch &&
                      dp[i + 1] >= m - j - 1) {
 
@@ -47,7 +47,7 @@ class Solution {
             i++;
         }
 
-        // Couldn't match all characters
+        // couldn't match all characters
         if (j < m) {
             return new int[0];
         }
