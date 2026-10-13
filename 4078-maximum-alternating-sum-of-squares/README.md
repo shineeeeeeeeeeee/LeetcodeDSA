@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-alternating-sum-of-squares">Maximum Alternating Sum of Squares</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>nums</code>. You may <strong>rearrange the elements</strong> in any order.</p>
+ <h2><a href="https://leetcode.com/problems/maximum-alternating-sum-of-squares">Maximum Alternating Sum of Squares</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>nums</code>. You may <strong>rearrange the elements</strong> in any order.</p>
 
 <p>The <strong>alternating score</strong> of an array <code>arr</code> is defined as:</p>
 
