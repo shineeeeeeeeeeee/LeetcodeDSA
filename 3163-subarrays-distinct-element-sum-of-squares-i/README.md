@@ -44,3 +44,6 @@ The sum of the squares of the distinct counts in all subarrays is equal to 1<sup
 	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
+
+
+
